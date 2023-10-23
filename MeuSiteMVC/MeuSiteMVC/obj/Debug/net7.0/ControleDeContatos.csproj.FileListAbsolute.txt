@@ -28,3 +28,4 @@ C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\Projetos-CSHARP\MeuSiteMVC\Meu
 C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\Projetos-CSHARP\MeuSiteMVC\MeuSiteMVC\obj\Debug\net7.0\ControleDeContatos.pdb
 C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\Projetos-CSHARP\MeuSiteMVC\MeuSiteMVC\obj\Debug\net7.0\ControleDeContatos.genruntimeconfig.cache
 C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\Projetos-CSHARP\MeuSiteMVC\MeuSiteMVC\obj\Debug\net7.0\ref\ControleDeContatos.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\Projetos-CSHARP\MeuSiteMVC\MeuSiteMVC\obj\Debug\net7.0\ControleDeContatos.csproj.AssemblyReference.cache
