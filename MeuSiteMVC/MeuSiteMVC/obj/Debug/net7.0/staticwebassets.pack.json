@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\MeuSiteMVC\\MeuSiteMVC\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MeuSiteMVC.bundle.scp.css",
-      "PackagePath": "staticwebassets\\MeuSiteMVC.bundle.scp.css"
+      "Id": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\MeuSiteMVC\\MeuSiteMVC\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ControleDeContatos.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ControleDeContatos.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\MeuSiteMVC\\MeuSiteMVC\\wwwroot\\css\\site.css",
@@ -245,20 +245,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MeuSiteMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ControleDeContatos.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MeuSiteMVC.props",
-      "PackagePath": "build\\MeuSiteMVC.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ControleDeContatos.props",
+      "PackagePath": "build\\ControleDeContatos.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MeuSiteMVC.props",
-      "PackagePath": "buildMultiTargeting\\MeuSiteMVC.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ControleDeContatos.props",
+      "PackagePath": "buildMultiTargeting\\ControleDeContatos.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MeuSiteMVC.props",
-      "PackagePath": "buildTransitive\\MeuSiteMVC.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ControleDeContatos.props",
+      "PackagePath": "buildTransitive\\ControleDeContatos.props"
     }
   ],
   "ElementsToRemove": []

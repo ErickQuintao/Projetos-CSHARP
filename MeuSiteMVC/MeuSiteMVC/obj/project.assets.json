@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\MeuSiteMVC\\MeuSiteMVC\\MeuSiteMVC.csproj",
-      "projectName": "MeuSiteMVC",
-      "projectPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\MeuSiteMVC\\MeuSiteMVC\\MeuSiteMVC.csproj",
+      "projectUniqueName": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\MeuSiteMVC\\MeuSiteMVC\\ControleDeContatos.csproj",
+      "projectName": "ControleDeContatos",
+      "projectPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\MeuSiteMVC\\MeuSiteMVC\\ControleDeContatos.csproj",
       "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\MeuSiteMVC\\MeuSiteMVC\\obj\\",
       "projectStyle": "PackageReference",

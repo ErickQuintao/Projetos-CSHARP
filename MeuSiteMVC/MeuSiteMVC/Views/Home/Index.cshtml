@@ -1,8 +1,10 @@
-﻿ @{
+﻿@model ControleDeContatos.Models.HomeModel
+@{
     ViewData["Title"] = "Home Page";
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Ben vindo, @Model.Nome</h1>
+    <p>Meu primeiro Site MVC.</p>
+    <span>Seu e-mail é: @Model.Email</span>
 </div>
