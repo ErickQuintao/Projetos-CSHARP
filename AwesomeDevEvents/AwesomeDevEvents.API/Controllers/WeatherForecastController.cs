@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace bookAPI.Controllers
+namespace AwesomeDevEvents.API.Controllers
 {
     [ApiController]
     [Route("[controller]")]

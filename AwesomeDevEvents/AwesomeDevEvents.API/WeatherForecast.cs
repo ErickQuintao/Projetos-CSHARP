@@ -1,4 +1,4 @@
-namespace bookAPI
+namespace AwesomeDevEvents.API
 {
     public class WeatherForecast
     {

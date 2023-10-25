@@ -1,5 +1,4 @@
-
-namespace bookAPI
+namespace BookAPi
 {
     public class Program
     {
@@ -8,7 +7,7 @@ namespace bookAPI
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-
+            services.AddDbContext<BookContext>(x => x.UseSqlite("Data source=books.db"));
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
