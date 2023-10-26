@@ -1,3 +1,6 @@
+using ControleDeContatos.Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace MeuSiteMVC
 {
     public class Program
@@ -8,6 +11,9 @@ namespace MeuSiteMVC
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            var provider = builder.Services.BuildServiceProvider();
+            var configuration = provider.GetService<IConfiguration>();
+            builder.Services.AddDbContext<BancoContext>(item => item.UseSqlServer(configuration.GetConnectionString("DataBase")));
 
             var app = builder.Build();
 
