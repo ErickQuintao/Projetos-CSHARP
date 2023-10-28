@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Entities.Entidades
 {
-    internal class ApplicationUsers : IdentityUser
+    public class ApplicationUser : IdentityUser
     {
         [Column("USR_CPF")]
         public string CPF { get; set; }

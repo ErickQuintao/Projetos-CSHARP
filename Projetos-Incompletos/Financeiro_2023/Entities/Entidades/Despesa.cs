@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace Entities.Entidades
 {
     [Table("Despesa")]
-    public class Despesas : Base
+    public class Despesa : Base
     {
         public decimal Valor { get; set; }
         public int Mes { get; set; }
