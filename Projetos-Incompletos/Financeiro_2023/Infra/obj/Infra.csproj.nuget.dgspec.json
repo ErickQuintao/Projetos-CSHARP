@@ -27,7 +27,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\Projetos-Incompletos\\Financeiro_2023\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\Projetos-Incompletos\\Financeiro_2023\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
