@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\Projetos-CSHARP\Projetos-Incompletos\Financeiro_2023\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\Projetos-CSHARP\Projetos-Incompletos\Financeiro_2023\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\Projetos-CSHARP\Projetos-Incompletos\Financeiro_2023\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\Projetos-CSHARP\Projetos-Incompletos\Financeiro_2023\Domain\bin\Debug\net7.0\Entities.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\Projetos-CSHARP\Projetos-Incompletos\Financeiro_2023\Domain\bin\Debug\net7.0\Entities.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\Projetos-CSHARP\Projetos-Incompletos\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\Projetos-CSHARP\Projetos-Incompletos\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\Projetos-CSHARP\Projetos-Incompletos\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\Projetos-CSHARP\Projetos-Incompletos\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\Projetos-CSHARP\Projetos-Incompletos\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\Projetos-CSHARP\Projetos-Incompletos\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\Projetos-CSHARP\Projetos-Incompletos\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\Projetos-CSHARP\Projetos-Incompletos\Financeiro_2023\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\Projetos-CSHARP\Projetos-Incompletos\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\Projetos-CSHARP\Projetos-Incompletos\Financeiro_2023\Domain\obj\Debug\net7.0\ref\Domain.dll

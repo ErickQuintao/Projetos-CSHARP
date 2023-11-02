@@ -6,7 +6,7 @@ namespace WebApi.Token
 {
     public class TokenJWTBuilder
     {
-        private JwtSecurityKey securityKey = null;
+        private SecurityKey securityKey = null;
         private string subject = "";
         private string issuer = "";
         private string audience = "";
@@ -96,5 +96,6 @@ namespace WebApi.Token
             return new TokenJWT(token);
 
         }
+
     }
 }

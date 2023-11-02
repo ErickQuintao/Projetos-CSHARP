@@ -4,12 +4,13 @@ namespace WebApi.Token
 {
     public class TokenJWT
     {
-        private JwtSecurityKey token;
+        private JwtSecurityToken token;
 
-        internal TokenJWT(JwtSecurityToken token) 
+        internal TokenJWT(JwtSecurityToken token)
         {
             this.token = token;
         }
+
         public DateTime ValidTo => token.ValidTo;
 
         public string value => new JwtSecurityTokenHandler().WriteToken(this.token);
