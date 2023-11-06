@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qY74+57UyGbW5KEzEVZZxPst189uagJ9cqYTKaXR5yw5kv2RynSGyl25h8xD4H09++OYSfsooCMHuYHBhTNg5Q==",
+  "dgSpecHash": "r8TkDIw7WrdZ74kFUSf2PoqD69h7q+yUZN6t0eozPpIwlGHKOTJ+ViQ+D+eLMbXygGx2nlclr2gvYoppsWPX+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\Projetos-Incompletos\\JWT-SistemaFinanceiro-2023\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\Projetos-completos\\JWT-SistemaFinanceiro-2023\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erick\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.3\\microsoft.aspnetcore.cryptography.internal.7.0.3.nupkg.sha512",
     "C:\\Users\\erick\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.3\\microsoft.aspnetcore.cryptography.keyderivation.7.0.3.nupkg.sha512",

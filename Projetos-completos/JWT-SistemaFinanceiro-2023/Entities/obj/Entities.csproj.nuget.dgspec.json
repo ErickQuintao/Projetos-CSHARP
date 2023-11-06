@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\Projetos-Incompletos\\JWT-SistemaFinanceiro-2023\\Entities\\Entities.csproj": {}
+    "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\Projetos-completos\\JWT-SistemaFinanceiro-2023\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\Projetos-Incompletos\\JWT-SistemaFinanceiro-2023\\Entities\\Entities.csproj": {
+    "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\Projetos-completos\\JWT-SistemaFinanceiro-2023\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\Projetos-Incompletos\\JWT-SistemaFinanceiro-2023\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\Projetos-completos\\JWT-SistemaFinanceiro-2023\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\Projetos-Incompletos\\JWT-SistemaFinanceiro-2023\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\Projetos-completos\\JWT-SistemaFinanceiro-2023\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\Projetos-Incompletos\\JWT-SistemaFinanceiro-2023\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\Projetos-completos\\JWT-SistemaFinanceiro-2023\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uxkERsprqOIss4KiVHN+mxNVp7zUoEorH2PZwVTxcnVnBxzw89c0IIm8059wbdNTwfCBSJoLFZ4gwzRYXfMGtg==",
+  "dgSpecHash": "JoS5+uHNvpTR6XCBF3AtTOuGnbRVUj0t7dN76kvV5W8hb5T2lYyyvvKu6RKLz9rJfklF2k9zahvx30lJLdjURA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\Projetos-Incompletos\\JWT-SistemaFinanceiro-2023\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\Projetos-completos\\JWT-SistemaFinanceiro-2023\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erick\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\erick\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

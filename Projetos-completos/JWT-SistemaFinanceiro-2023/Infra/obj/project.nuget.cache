@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c5qjVudr4gIpJVKUrTtl1EJDXppoG1gil8emgydZppLw5ogW8/vJQyX05V/litTHCtYWTP9GdKUby5Zxj0ezJg==",
+  "dgSpecHash": "6JMCV3uMOJ944pka9/Pig5/EQG1rteTaOFXZwe4i/7mjpK3AiFi7A+UFyZDKT+pBC2i35/Gv0u9XCY9odThVJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\Projetos-Incompletos\\JWT-SistemaFinanceiro-2023\\Infra\\Infra.csproj",
+  "projectFilePath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\Projetos-CSHARP\\Projetos-completos\\JWT-SistemaFinanceiro-2023\\Infra\\Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erick\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\erick\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
